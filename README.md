@@ -1,5 +1,5 @@
 ### 7. 하이퍼링크
----[링크텍스트](링크url)---
+---[링크텍스트](링크url "설명")---
 [Daum cafe](https://cafe.daum.net/pcwk "수업자료 cafe")
 
 ### 6. 가로선
